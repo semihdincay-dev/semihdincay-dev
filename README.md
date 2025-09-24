@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I’m Semih Dinçay
 
-<!--
-**semihdincay-dev/semihdincay-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Software Engineer** | İzmir, Türkiye  
+🌍 Specialized in **.NET Core & NestJS** for backend and **React & Angular** for frontend.  
+🚀 Passionate about clean architecture, scalable systems, and production-ready solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages**: C#, TypeScript, JavaScript, SQL
+- **Backend**: .NET Core, ASP.NET Core, NestJS
+- **Frontend**: React.js, Angular.js
+- **Databases**: MSSQL, PostgreSQL, MySQL, MongoDB, Redis
+- **Others**: Entity Framework, Dapper, RabbitMQ, RESTful APIs, Unit Testing
+
+---
+
+## 📌 Featured Projects
+- [**NestJS-Car-Value-Example**](https://github.com/semihdincay-dev/NestJS-Car-value-Example)  
+  Car valuation API with NestJS + SQLite. Demonstrates DTOs, service structure, and validation.
+
+- [**NestJS-DI**](https://github.com/semihdincay-dev/NestJS-DI)  
+  Examples of Dependency Injection patterns in NestJS with custom providers.
+
+- [**NestJS-Learning**](https://github.com/semihdincay-dev/NestJS-Learning)  
+  Educational repo for mastering NestJS fundamentals, REST endpoints and testing.
+
+- [**Leaderboard API (C#)**](https://github.com/semihdincay-dev/Leaderboard)  
+  ASP.NET Core Web API managing leaderboards, showcasing EF Core and clean architecture.
+
+- [**EvaExchange Clone**](https://github.com/semihdincay-dev/EvaExchange)  
+  JavaScript/TypeScript project simulating a trading platform. 
+
+- [**Strategy Pattern Example (C#)**](https://github.com/semihdincay-dev/StrategyPattern)  
+  Demonstrates SOLID principles with a classic design pattern.
+
+---
+
+## 🌍 Languages
+- 🇹🇷 Turkish – Native  
+- 🇬🇧 English – B2  
+- 🇩🇪 German – A1  
+
+---
+
+## 🤝 Let’s Connect
+- GitHub: [semihdincay-dev](https://github.com/semihdincay-dev)  
+- LinkedIn: [linkedin.com/in/semihdincay](https://www.linkedin.com/in/semih-dincay/)
+- Email: semihdincay@gmail.com
