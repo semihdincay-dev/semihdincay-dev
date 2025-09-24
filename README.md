@@ -28,8 +28,8 @@
 - [**Leaderboard API (C#)**](https://github.com/semihdincay-dev/Leaderboard)  
   ASP.NET Core Web API managing leaderboards, showcasing EF Core and clean architecture.
 
-- [**EvaExchange Clone**](https://github.com/semihdincay-dev/EvaExchange)  
-  JavaScript/TypeScript project simulating a trading platform. 
+- [**Observer Pattern Example **](https://github.com/semihdincay-dev/Observer-Pattern)  
+   Demonstrates the **Observer Pattern** with C#, emphasizing event-driven architecture and design principles.
 
 - [**Strategy Pattern Example (C#)**](https://github.com/semihdincay-dev/StrategyPattern)  
   Demonstrates SOLID principles with a classic design pattern.
