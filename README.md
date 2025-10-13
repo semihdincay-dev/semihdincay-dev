@@ -17,7 +17,7 @@
 
 ## 📌 Featured Projects
 - [**NestJS-CV-Example**](https://github.com/semihdincay-dev/NestJS-CV-Example)
-  Car valuation API with NestJS + SQLite. Demonstrates DTOs, service structure, and validation.
+  API with NestJS + SQLite. Demonstrates DTOs, service structure, and validation.
 
 - [**NestJS-DI**](https://github.com/semihdincay-dev/NestJS-DI)  
   Examples of Dependency Injection patterns in NestJS with custom providers.
