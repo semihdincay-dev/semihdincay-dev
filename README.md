@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Featured Projects
-- [**NestJS-Car-Value-Example**](https://github.com/semihdincay-dev/NestJS-Car-value-Example)  
+- [**NestJS-CV-Example**](https://github.com/semihdincay-dev/NestJS-CV-Example)
   Car valuation API with NestJS + SQLite. Demonstrates DTOs, service structure, and validation.
 
 - [**NestJS-DI**](https://github.com/semihdincay-dev/NestJS-DI)  
