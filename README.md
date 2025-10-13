@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Featured Projects
-- [**NestJS-CV-Example**](https://github.com/semihdincay-dev/NestJS-CV-Example)
+- [**NestJS-CV-Example**](https://github.com/semihdincay-dev/NestJS-CV-Example)    
   API with NestJS + SQLite. Demonstrates DTOs, service structure, and validation.
 
 - [**NestJS-DI**](https://github.com/semihdincay-dev/NestJS-DI)  
